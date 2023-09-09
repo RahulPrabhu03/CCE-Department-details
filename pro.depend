@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644548998 source:d:\python\c\pro\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<time.h>
+
